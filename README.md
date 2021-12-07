@@ -5,7 +5,7 @@ Status do Curso
 | Seção      | Descrição | Status     |
 | :----:     |    :----:   |     :----:    |
 | 1      | Boas vindas      | :heavy_check_mark:   |
-| 2   | Preparando-se para o desenvolvimento       | :heavy_check_mark  |
+| 2   | Preparando-se para o desenvolvimento       | :heavy_check_mark:  |
 | 3      | HTML5      | :heavy_check_mark:   |
 | 4   | CSS3       | :x:   |
 | 5      | CSS3 Intermediario e avançado      |  :x:    |
