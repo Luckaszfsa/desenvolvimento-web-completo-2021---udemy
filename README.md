@@ -1,5 +1,6 @@
 # Curso Desenvolvimento Web Completo 2021
 
+## Curso da Udemy , aplicado por Jorge Santana e Jamilton Damasceno
 Status do Curso
 
 | Seção      | Descrição | Status     |
