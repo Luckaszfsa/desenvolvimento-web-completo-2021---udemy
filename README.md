@@ -8,7 +8,7 @@ Status do Curso
 | 1      | Boas vindas      | :heavy_check_mark:   |
 | 2   | Preparando-se para o desenvolvimento       | :heavy_check_mark:  |
 | 3      | HTML5      | :heavy_check_mark:   |
-| 4   | CSS3       | :x:   |
+| 4   | CSS3       | :heavy_check_mark:   |
 | 5      | CSS3 Intermediario e avançado      |  :x:    |
 | 6   | HTML5 e CSS3 Recursos especiais      | :x:   |
 | 7      | Bootstrap 4 e Design responsivo     |  :x:    |
