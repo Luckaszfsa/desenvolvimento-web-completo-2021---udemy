@@ -9,8 +9,8 @@ Status do Curso
 | 2   | Preparando-se para o desenvolvimento       | :heavy_check_mark:  |
 | 3      | HTML5      | :heavy_check_mark:   |
 | 4   | CSS3       | :heavy_check_mark:   |
-| 5      | CSS3 Intermediario e avançado      |  :x:    |
-| 6   | HTML5 e CSS3 Recursos especiais      | :x:   |
+| 5      | CSS3 Intermediario e avançado      |  :heavy_check_mark:   |
+| 6   | HTML5 e CSS3 Recursos especiais      | :heavy_check_mark:   |
 | 7      | Bootstrap 4 e Design responsivo     |  :x:    |
 | 8   | Javascript      | :x:   |
 | 9      | ECMAScript 2015 e Orientaçaõ a objetos      |  :x:   |
