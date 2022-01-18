@@ -11,7 +11,7 @@ Status do Curso
 | 4   | CSS3       | :heavy_check_mark:   |
 | 5      | CSS3 Intermediario e avançado      |  :heavy_check_mark:   |
 | 6   | HTML5 e CSS3 Recursos especiais      | :heavy_check_mark:   |
-| 7      | Bootstrap 4 e Design responsivo     |  :x:    |
+| 7      | Bootstrap 4 e Design responsivo     |  :heavy_check_mark:    |
 | 8   | Javascript      | :x:   |
 | 9      | ECMAScript 2015 e Orientaçaõ a objetos      |  :x:   |
 | 10   | Iniciando com servidor Apache, PHP e MYSQL      | :x:   |
